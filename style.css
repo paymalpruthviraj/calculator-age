@@ -1,0 +1,81 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: white;
+  font-family: "Itim", cursive;
+}
+div {
+  background-color: #0e2f2f;
+  height: 45vh;
+  width: 40vw;
+  border-radius: 8px;
+  margin-left: 80px;
+  margin-top: 80px;
+}
+h2 {
+  font-family: "Itim", cursive;
+  text-align: center;
+  text-shadow: 2px 2px 1px rgb(91, 92, 95);
+  color: orange;
+  padding-top: 35px;
+  padding-bottom: 35px;
+}
+#input {
+  background-color: grey;
+  border-radius: 5px;
+  border-color: black;
+}
+#label {
+  padding-left: 200px;
+  display: inline-block;
+  padding-bottom: 8px;
+}
+#submit {
+  padding-left: 213px;
+  display: inline-block;
+  padding-top: 30px;
+}
+#calculate {
+  background-color: rgb(247, 173, 82);
+  border-radius: 10px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  color: white;
+  background-color: rgb(247, 173, 82);
+  margin-bottom: 15px;
+  margin-right: 10px;
+}
+#calculate:hover {
+  background-color: rgb(83, 83, 82);
+  cursor: pointer;
+}
+
+#reset {
+  background-color: rgb(247, 173, 82);
+  border-radius: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+#reset:hover {
+  background-color: rgb(83, 83, 82);
+  cursor: pointer;
+}
+
+#result {
+  padding-left: 216px;
+  margin-bottom: 10px;
+}
+
+#twitter {
+  padding-left: 260px;
+  font-size: 20px;
+}
+#link {
+  margin-left: 5px;
+  font-size: 20px;
+}
